@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jvlinsta - Jordy Van Landeghem SWE@Instabase
 - 👀 I’m interested in LLMs that are reliable, robust and efficient
-- 🌱 I’m currently learning about fancy RAGs
+- 🌱 I’m currently learning about fancy RAGs and improved LLM training
 - 💞️ I’m looking to collaborate on any of the above 
 
 <!---
